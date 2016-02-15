@@ -39,11 +39,12 @@ p {
 
 a {
   font-family: "Century Gothic";
-  font-size: 20px;
+  font-size: 15px;
   color: hotpink;
 }
 
 h3 {
+  font-family: "Century Gothic";
   padding-left: 25px;
   color: red;
 }
@@ -52,4 +53,9 @@ h4 {
   font-family: "Century Gothic";
   color: red;
   padding-left: 25px;
+}
+
+ul {
+  color: red;
+  padding-left: 45px;
 }
