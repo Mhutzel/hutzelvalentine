@@ -1,22 +1,55 @@
 body {
   background-color: pink;
-  font-family: cursive;
-  font-weight: bold;
+
+}
+
+div {
+    width: 300px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border: 25px solid white;
+    margin: 25px;
+
+}
+img {
+    float: left;
+    margin: 1 1 10px 10px;
 }
 
 h1 {
+  padding-left: 25px;
+  font-family: "Century Gothic";
   color: red;
 
 }
 
 h2 {
+  padding-left: 25px;
+  font-family: "Century Gothic";
   color: red;
 }
 
 p {
+  padding-left: 25px;
+  font-family: "Century Gothic";
   color: red;
 }
 
+a {
+  font-family: "Century Gothic";
+  font-size: 20px;
+  color: hotpink;
+}
+
 h3 {
+  padding-left: 25px;
   color: red;
+}
+
+h4 {
+  font-family: "Century Gothic";
+  color: red;
+  padding-left: 25px;
 }
