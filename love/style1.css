@@ -23,11 +23,32 @@ h2 {
   padding-right: 75px;
 }
 
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.center {
+  margin: 0 auto;
+  width: 18.5em;
+}
 
 div {
     width: 300px;
     padding: 0px;
-    border: 25px solid pink;
+    border: 25px solid firebrick;
     margin: 100px;
 
+}
+
+p {
+  font-family: "Century Gothic";
+  color: white;
+  text-align: center;
+}
+
+a {
+  font-family: "Century Gothic";
+  color: lightpink;
 }
